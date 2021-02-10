@@ -2,7 +2,7 @@
     "name": "chillax_web",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://Karim-Creator.github.io/livrix",
+    "homepage": "https://Karim-Creator.github.io/github-react-apps",
     "dependencies": {
         "@testing-library/jest-dom": "^5.11.6",
         "@testing-library/react": "^11.2.2",
