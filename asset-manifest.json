@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/github-react-apps/static/css/main.196c9440.chunk.css",
+    "main.js": "/github-react-apps/static/js/main.1e1fc9b9.chunk.js",
+    "main.js.map": "/github-react-apps/static/js/main.1e1fc9b9.chunk.js.map",
+    "runtime-main.js": "/github-react-apps/static/js/runtime-main.d697d62a.js",
+    "runtime-main.js.map": "/github-react-apps/static/js/runtime-main.d697d62a.js.map",
+    "static/js/2.e90421af.chunk.js": "/github-react-apps/static/js/2.e90421af.chunk.js",
+    "static/js/2.e90421af.chunk.js.map": "/github-react-apps/static/js/2.e90421af.chunk.js.map",
+    "index.html": "/github-react-apps/index.html",
+    "static/css/main.196c9440.chunk.css.map": "/github-react-apps/static/css/main.196c9440.chunk.css.map",
+    "static/js/2.e90421af.chunk.js.LICENSE.txt": "/github-react-apps/static/js/2.e90421af.chunk.js.LICENSE.txt",
+    "static/media/svg-1.7bc67e7d.svg": "/github-react-apps/static/media/svg-1.7bc67e7d.svg",
+    "static/media/svg-2.e1caa6d9.svg": "/github-react-apps/static/media/svg-2.e1caa6d9.svg",
+    "static/media/svg-3.0bd0cf47.svg": "/github-react-apps/static/media/svg-3.0bd0cf47.svg",
+    "static/media/svg-5.svg": "/github-react-apps/static/media/svg-5.037927c3.svg",
+    "static/media/svg-6.svg": "/github-react-apps/static/media/svg-6.3fb49a56.svg",
+    "static/media/svg-7.svg": "/github-react-apps/static/media/svg-7.2c404542.svg",
+    "static/media/video.7d1ea6a9.mp4": "/github-react-apps/static/media/video.7d1ea6a9.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d697d62a.js",
+    "static/js/2.e90421af.chunk.js",
+    "static/css/main.196c9440.chunk.css",
+    "static/js/main.1e1fc9b9.chunk.js"
+  ]
+}
